@@ -30,5 +30,10 @@ namespace LinqExercise
         {
             
         }
+
+        internal object ToList()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
